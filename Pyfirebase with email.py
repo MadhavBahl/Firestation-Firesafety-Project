@@ -9,8 +9,8 @@ arduinoData = serial.Serial('com31',9600)
 
 from firebase import firebase
 
-gmail_user = "madhavbahl20@gmail.com"
-gmail_pwd  = "ben10000"
+gmail_user = "YourEmailHere@gmail.com"
+gmail_pwd  = "******"
 TO = 'madhavbahl10@gmail.com'
 SUBJECT = "FIRE STATION NOTIFICATIONl"
 TEXT = "The temperature is above critical level"
