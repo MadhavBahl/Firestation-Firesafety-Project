@@ -1,10 +1,5 @@
 var config = {
-    apiKey: "AIzaSyDvwVOcqme0jFKoGxUXsQm7qbqh3x4wT5c",
-    authDomain: "firestation-database.firebaseapp.com",
-    databaseURL: "https://firestation-database.firebaseio.com",
-    projectId: "firestation-database",
-    storageBucket: "firestation-database.appspot.com",
-    messagingSenderId: "267556191185"
+//     Add config vars
   };
   firebase.initializeApp(config);
 
